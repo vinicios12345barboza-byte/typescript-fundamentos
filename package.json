@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinicios12345barboza-byte/typescript-fundamentos.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
@@ -13,5 +17,9 @@
   "devDependencies": {
     "prettier": "3.9.6",
     "typescript": "^7.0.2"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/vinicios12345barboza-byte/typescript-fundamentos/issues"
+  },
+  "homepage": "https://github.com/vinicios12345barboza-byte/typescript-fundamentos#readme"
 }
