@@ -1,10 +1,3 @@
-function sum(a: number, b: number) {
-  console.log('Dentro do escopo de módulo');
-  return { result: a + b };
-}
+import { bootstrap } from './modules/basic-types/type-intersection.js';
 
-const name = (name: string) => {
-  console.log('Olá ${name}');
-};
-
-name('Vinicios');
+export { bootstrap };
